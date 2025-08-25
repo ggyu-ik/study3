@@ -1,0 +1,3 @@
+﻿  Inventory.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\ggye0\source\repos\Study3\x64\Debug\Study3.exe : fatal error LNK1120: 1 unresolved externals
