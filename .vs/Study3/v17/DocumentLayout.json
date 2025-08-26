@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|solutionrelative:Study3\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|solutionrelative:Study3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6C96893-C2E1-45CE-A571-4DEB8E4CA534}|Study3\\Study3.vcxproj|solutionrelative:Study3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\Item.h",
+              "RelativeDocumentMoniker": "Study3\\Item.h",
+              "ToolTip": "C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\Item.h",
+              "RelativeToolTip": "Study3\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T03:12:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\main.cpp",
+              "RelativeDocumentMoniker": "Study3\\main.cpp",
+              "ToolTip": "C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\main.cpp",
+              "RelativeToolTip": "Study3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T02:54:31.293Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Study3\\Inventory.h",
               "ToolTip": "C:\\Users\\ggye0\\source\\repos\\Study3\\Study3\\Inventory.h",
               "RelativeToolTip": "Study3\\Inventory.h",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowHYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-22T11:32:10.433Z",
               "EditorCaption": ""

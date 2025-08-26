@@ -1,5 +1,7 @@
 #pragma once
 #include <iostream>
+#include "Item.h"
+#include <algorithm>
 
 template<typename T>
 class Inventory
@@ -103,7 +105,7 @@ public:
 		capacity = newCapacity;
 	}
 
-	bool compareItemsByPrice(const Item& a, const Item& b)
+	static bool compareItemsByPrice(const Item& a, const Item& b)
 	{
 		return a.GetPrice() < b.GetPrice(); // a가 앞에 오는 원소, 작은거에서 큰순으로 -> 오름차순
 	}
@@ -127,7 +129,7 @@ public:
 	{
 		for (int i = 0; i < size; ++i)
 		{
-			std::cout << "[이름: " << pItems[i].name << ", 가격: " << pItems[i].price << "G]" << std::endl;
+			std::cout << "[이름: " << pItems[i].GetName() << ", 가격: " << pItems[i].GetPrice() << "G]" << std::endl;
 		}
 	}
 
